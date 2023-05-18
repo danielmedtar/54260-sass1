@@ -1,0 +1,17 @@
+Trabajar con SASS:
+
+1. Crear carpeta scss con un archivo dentro que se llame styles.scss.
+
+2. Hagan respaldo de su CSS
+
+Comandos:
+
+1. Para iniciar el node package manager: npm init
+
+2. npm install -g sass
+
+3. sass --watch scss:css
+
+Para volver a arrancar la consola de sass, unicamente debemos ejecutar el comando: sass --watch scss:css
+
+Si se les borró todo el css, solo peguen el respaldo en el archivo de SASS
